@@ -200,3 +200,6 @@ elif comando0 == 3:
     print("B Não difundir propaganda ou conteúdo de natureza racista, xenofóbica, ou azar, qualquer tipo de pornografia ilegal, de apologia ao terrorismo ou contra os direitos humanos;")
     print("C Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do CryptoByte, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados.")
     input()
+
+
+print('Test for commit')
